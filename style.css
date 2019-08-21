@@ -161,14 +161,13 @@ blockquote .svg-inline--fa{
 .clients-hr{
   border-top: 0.05rem solid #1ebba3;
 }
-
 /* contact */
 
 footer{
   background-color: #40474e;
   color: white;
   padding: 2rem 0 2rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 footer img{
   height: 3rem;

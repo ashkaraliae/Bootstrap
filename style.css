@@ -20,11 +20,11 @@ body{
   font-weight: 700;
   font-size: 0.9rem;
   letter-spacing: 0.1rem;
-  background: rgba(0, 0, 0, 0.7)!important;
+  background: rgba(143, 139, 146, 0.75)!important;
 
 }
 .navbar-brand img{
-  height: 2rem;
+  height: 3rem;
 }
 .navbar-nav li{
   padding-right: .7rem;
@@ -42,7 +42,7 @@ body{
 /* Landing page */
 
 .home-inner{
-  background-image: url(img/computers.png);
+  background-image: url(img/home1.jpg);
 }
 .caption{
   width: 100%;
@@ -68,7 +68,7 @@ body{
 }
 .btn-lg{
   border-width: medium;
-  border-radius: 0;
+  border-radius: 0.5rem;
   padding: 0.6 rem 1.3rem;
   font-size: 1.1rem;
 }
@@ -134,7 +134,7 @@ h3.heading{
 /* Resources */
 
 .fixed{
-  background-image: url(img/apple.png);
+  background-image: url(img/computer.jpg);
   z-index: -1;
 }
 .dark{
@@ -162,16 +162,19 @@ blockquote .svg-inline--fa{
   border-top: 0.05rem solid #1ebba3;
 }
 /* contact */
+.contact{
+  padding: 0 0 0 2 rem;
+  box-sizing: inherit;
+}
 
 footer{
-  background-color: #40474e;
+  background-color: #2c4642;
   color: white;
-  padding: 2rem 0 2rem;
-  margin-top: 2rem;
+  padding: 1rem 0 1rem;
 }
 footer img{
-  height: 3rem;
-  margin: 1.5rem 0;
+  height: 8rem;
+  margin: -1.5rem 0;
 
 }
 

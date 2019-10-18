@@ -20,8 +20,7 @@ body{
   font-weight: 700;
   font-size: 0.9rem;
   letter-spacing: 0.1rem;
-  background: rgba(143, 139, 146, 0.75)!important;
-
+  background:rgba(0, 0, 0, 0.75)!important;
 }
 .navbar-brand img{
   height: 3rem;
@@ -30,7 +29,7 @@ body{
   padding-right: .7rem;
 }
 .navbar-dark .navbar-nav .nav-link{
-  color: white;
+  color: #cccccc;
   padding-top: .8rem;
 }
 .navbar-dark .navbar-nav .nav-link.active,
@@ -168,7 +167,7 @@ blockquote .svg-inline--fa{
 }
 
 footer{
-  background-color: #2c4642;
+  background-color: #18333b;
   color: white;
   padding: 1rem 0 1rem;
 }
